@@ -1,1 +1,1 @@
-# CS224U-multilingual
+# CS224U-NMT
