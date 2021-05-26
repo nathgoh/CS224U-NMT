@@ -1,3 +1,3 @@
 # CS224U-NMT
 -------------------------------------------------------------------------------------
-### Datasets used are the WMT'14 English German obtained from https://nlp.stanford.edu/projects/nmt/
+### WMT'14 English German datasets was used for this project, obtained from https://nlp.stanford.edu/projects/nmt/
