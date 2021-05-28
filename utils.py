@@ -28,6 +28,10 @@ def get_max_len_sentences(source_sentences, target_sentences, sentence_length = 
         
     return new_source_sentences, new_target_sentences
 
+def lookup_words(x, vocab):
+    return [vocab[j] for j in x]
+
+     
 def plot_perplexity(perplexities):
     plt.title("Perplexity per Epoch")
     plt.xlabel("Epoch")
