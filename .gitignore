@@ -9,6 +9,9 @@ datasets/
 .de
 .en-de
 
+# Model
+.pt
+
 # C extensions
 *.so
 
